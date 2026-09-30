@@ -1,0 +1,30 @@
+Kalu Weather is a simple, beautiful weather app with animated icons.
+
+<b>Weather</b>
+<ul>
+<li>Current weather for your location or any city in the world</li>
+<li>Hourly forecast for the next 24 hours and a 6-day forecast</li>
+<li>Tap any day to see rain, wind, UV, sunrise, sunset and daylight</li>
+<li>Wind speed, direction, gusts and the Beaufort scale</li>
+<li>Humidity, dew point, cloud cover, visibility and pressure</li>
+<li>Air quality (US and European AQI, PM2.5, PM10, ozone and more)</li>
+<li>Pollen levels (Europe)</li>
+<li>Moon phase</li>
+<li>Celsius or Fahrenheit</li>
+</ul>
+
+<b>Explore</b>
+<ul>
+<li>Today's 5 strongest earthquakes (USGS)</li>
+<li>Art of the Day from The Metropolitan Museum of Art, New York</li>
+<li>On This Day in history (Wikipedia)</li>
+</ul>
+
+<b>Also</b>
+<ul>
+<li>Save your favorite cities</li>
+<li>Four animated icon styles</li>
+<li>No ads, no tracking, no account</li>
+</ul>
+
+Weather data by Open-Meteo.com (CC BY 4.0). Animated icons: Meteocons by Bas Milius (MIT).
